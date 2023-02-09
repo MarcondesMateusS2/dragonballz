@@ -1,0 +1,216 @@
+        @charset "UTF-8";
+
+        @font-face{
+            font-family:'Anton-Regular';
+            src: url(../fontes/Anton-Regular.ttf)
+        }
+        body{
+            margin: 0%;
+            padding: 0%;
+        }
+        body {
+           
+            background: url('../imagens/fundo01.png');
+            background-attachment: fixed;
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center right;
+           
+        }
+        h1{
+           
+            font-family:'Anton-Regular', sans-serif;
+            color: rgb(253, 253, 249);
+            
+		    font-weight: bold;
+            font-size: 3em;
+            text-align: center;
+        }
+        
+        .item01{
+            background-color: rgba(187, 187, 187, 0.527);
+            font-size: 25px;
+            color: white;
+            border: 2px solid rgba(0, 0, 0, 0.342);
+            text-align: center;
+            
+        }
+        
+        .item02{
+            background-color: rgba(187, 187, 187, 0.527);
+            color: white;
+            font-size: 25px;
+            text-align: center;
+            border: 2px solid rgba(0, 0, 0, 0.342);
+        }
+        .item03{
+            background-color: rgba(187, 187, 187, 0.527);
+            color: white;
+            font-size: 25px;
+            text-align: center;
+            border: 2px solid rgba(0, 0, 0, 0.342);
+        }
+    
+
+        .item04{
+            background-color: rgba(187, 187, 187, 0.527);
+            color: white;
+            font-size: 25px;
+            text-align: center;
+            border: 2px solid rgba(0, 0, 0, 0.342);
+        }
+
+        .item05{
+            background-color: rgba(187, 187, 187, 0.527);
+            color: white;
+            font-size: 25px;
+            text-align: center;
+            border: 2px solid rgba(0, 0, 0, 0.342);
+        }
+
+        .item06{
+            background-color: rgba(187, 187, 187, 0.527);
+            color: white;
+            font-size: 25px;
+            text-align: center;
+            border: 2px solid rgba(0, 0, 0, 0.342);
+        }
+
+        .item07{
+            background-color: rgba(187, 187, 187, 0.527);
+            color: white;
+            font-size: 25px;
+            text-align: center;
+            border: 2px solid rgba(0, 0, 0, 0.342);
+        }
+
+        .item08{
+            background-color: rgba(187, 187, 187, 0.527);
+            color: white;
+            font-size: 25px;
+            text-align: center;
+            border: 2px solid rgba(0, 0, 0, 0.342);
+        }
+
+        .item09{
+            background-color: rgba(187, 187, 187, 0.527);
+            color: white;
+            font-size: 25px;
+            text-align: center;
+            border: 2px solid rgba(0, 0, 0, 0.342);
+        }
+
+        .item10{
+            background-color: rgba(187, 187, 187, 0.527);
+            color: white;
+            font-size: 25px;
+            text-align: center;
+            border: 2px solid rgba(0, 0, 0, 0.342);
+        }
+        
+        div{
+           border-radius: 10px;
+           margin: 10px;
+
+           
+        }
+
+        .main{
+
+            background-color: rgba(233, 9, 9, 0.527);
+            position:absolute;
+            left:135%;
+            top:15%;
+            
+            border: 2px solid rgba(0, 0, 0, 0.342);
+            height:770px;
+            width:900px;
+        }
+
+        .apresentacaorelative{
+           display: flex;
+           justify-content: center;
+           align-items: center;
+        }
+        .apresentacao{
+
+            background-color: rgba(255, 255, 255, 0.253);
+            
+           
+            width: 50vw;
+            height: 75vh;
+            
+            
+            
+            
+            
+        }
+
+        .conteiner01{
+            width: 175px;
+            height: 190px;
+            padding: 50px;
+
+            position: absolute;
+            float: left;
+            left: 110px;
+            top: 10%;
+            
+        }
+        
+        .conteiner02{
+            width: 175px;
+            height: 190px;
+            padding: 50px;
+
+            position: absolute;
+            float: right;
+            right: 110px;
+            top: 10%;
+        }
+       
+        .item01:hover{
+            background: rgba(70, 69, 69, 0.363);
+            
+        } 
+        
+        
+        .item02:hover{
+            background: rgba(70, 69, 69, 0.363);
+        }
+        .item03:hover{
+            background: rgba(70, 69, 69, 0.363);
+        }
+        .item04:hover{
+            background: rgba(70, 69, 69, 0.363);
+        }
+        .item05:hover{
+            background: rgba(70, 69, 69, 0.363);
+        }
+        .item06:hover{
+            background: rgba(70, 69, 69, 0.363);
+        }
+        .item07:hover{
+            background: rgba(70, 69, 69, 0.363);
+        }
+        .item08:hover{
+            background: rgba(70, 69, 69, 0.363);
+        }
+        .item09:hover{
+            background: rgba(70, 69, 69, 0.363);
+        }
+        .item10:hover{
+            background: rgba(70, 69, 69, 0.363);
+        }
+
+        
+        
+      
+       
+        
+
+
+    
+
+        
+
